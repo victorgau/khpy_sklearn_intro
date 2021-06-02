@@ -1,4 +1,4 @@
-# 【唯客學院微課程】Scikit-Learn使用簡介
+# Scikit-Learn使用簡介
 
 ## 關於唯客學院：
 
