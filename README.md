@@ -20,10 +20,12 @@
 ### 2. 實作引導
 
 * 簡單介紹 Scikit-Learn 的使用
+* Precessing
 * Supervised Learning
 * Unsupervised Learning
 * Dimensionality Reduction
 * Model Selection
+* 怎麼儲存訓練的模型？
 * 關於Kaggle
 
 ### 3. 自我挑戰
