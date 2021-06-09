@@ -20,7 +20,7 @@
 ### 2. 實作引導
 
 * 簡單介紹 Scikit-Learn 的使用
-* Precessing
+* Preprocessing
 * Supervised Learning
 * Unsupervised Learning
 * Dimensionality Reduction
