@@ -13,7 +13,7 @@
 ### 1. 文件導覽
 
 * [Scikit-Learn](https://scikit-learn.org/)
-* [scikit-learn datasets](https://scikit-learn.org/stable/datasets/index.html)
+* [scikit-learn datasets](https://scikit-learn.org/stable/datasets/toy_dataset.html)
 * [UC Irvine Machine Learning Repositories](https://archive.ics.uci.edu/ml/index.php)
 * [kaggle.com](https://www.kaggle.com/)
 
