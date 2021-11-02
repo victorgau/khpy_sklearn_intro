@@ -28,22 +28,23 @@
 ### 2. 實作引導
 
 * 簡單介紹 Scikit-Learn 的使用
-* Preprocessing
 * Supervised Learning
 * Unsupervised Learning
 * Dimensionality Reduction
 * Model Selection
+* Preprocessing
 * 怎麼儲存訓練的模型？
 * 關於Kaggle
 
 ### 3. 自我挑戰
 
 * 挑選Kaggle上的Titanic資料集來做分析
+* 使用scikit-learn預測股價指數
+* 使用scikit-learn預測股市漲跌
 
 ### 相關網址：
 
 * [XGBoost](https://xgboost.readthedocs.io/en/latest/)
 * [LightGBM](https://lightgbm.readthedocs.io/en/latest/)
 * [Basics of support vector machines](http://www.cristiandima.com/basics-of-support-vector-machines/)
-* [Visualizing K-Means Clustering](http://stanford.edu/class/ee103/visualizations/kmeans/kmeans.html)
 * [Unofficial Windows Binaries for Python Extension Packages](https://www.lfd.uci.edu/~gohlke/pythonlibs/)
